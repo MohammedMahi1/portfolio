@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/MohammedMahi1/portfolio.git/static/css/main.718da73f.css",
-    "main.js": "/MohammedMahi1/portfolio.git/static/js/main.7536c1c5.js",
-    "static/js/787.1ed0c42c.chunk.js": "/MohammedMahi1/portfolio.git/static/js/787.1ed0c42c.chunk.js",
-    "static/media/Mm-Profile.jpg": "/MohammedMahi1/portfolio.git/static/media/Mm-Profile.10b9990e139e841b289c.jpg",
-    "static/media/Hello.png": "/MohammedMahi1/portfolio.git/static/media/Hello.e74f8e65b22e46ddbde3.png",
-    "index.html": "/MohammedMahi1/portfolio.git/index.html",
-    "main.718da73f.css.map": "/MohammedMahi1/portfolio.git/static/css/main.718da73f.css.map",
-    "main.7536c1c5.js.map": "/MohammedMahi1/portfolio.git/static/js/main.7536c1c5.js.map",
-    "787.1ed0c42c.chunk.js.map": "/MohammedMahi1/portfolio.git/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/static/css/main.718da73f.css",
+    "main.js": "/static/js/main.5d1eb29f.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Mm-Profile.jpg": "/static/media/Mm-Profile.10b9990e139e841b289c.jpg",
+    "static/media/Hello.png": "/static/media/Hello.e74f8e65b22e46ddbde3.png",
+    "index.html": "/index.html",
+    "main.718da73f.css.map": "/static/css/main.718da73f.css.map",
+    "main.5d1eb29f.js.map": "/static/js/main.5d1eb29f.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.718da73f.css",
-    "static/js/main.7536c1c5.js"
+    "static/js/main.5d1eb29f.js"
   ]
 }
